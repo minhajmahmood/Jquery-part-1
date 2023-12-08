@@ -1,0 +1,81 @@
+/*jQuery first() Method  */
+#f_filter{
+    border: 10px solid black;
+}
+#s_filter{
+    border: 10px solid rgb(0, 0, 0);
+}
+#t_filter{
+    border: 10px solid rgb(0, 0, 0);
+}
+/* change color and text */
+.color_change .color1{
+    background-color:#ff0000
+}
+.color_change .color2{
+    background-color:#00ff00
+}
+.color_change .color3{
+    background-color:#0000ff
+}
+/* jq empty */
+.text_empty{
+    height:100px;
+    width:300px;
+    border:20px solid black;
+    background-color:yellow;
+}
+/* jq remove */
+.remove_item{
+    height:100px;
+    width:300px;
+    border:1px solid black;
+    background-color:yellow;
+}
+/* Query addClass() Method  */
+.important {
+    font-weight: bold;
+    font-size: xx-large;
+  }
+  
+  .red {
+    color: red;
+  }
+/* animation box and text */
+.box_animation_text{
+    background:#d61010;
+    height:100px;
+    width:200px;
+    position:relative;
+}
+/* animation box toggle */
+.box_animation_toggle{
+  background:#60a770;
+    height:100px;
+    width:100px;
+    position:relative;  
+}
+/* animation box */
+.box_animation{
+    background:#98bf21;
+    height:100px;
+    width:100px;
+    position:relative;
+}
+/* side */
+.ques{
+    padding: 20px;
+    cursor: pointer;
+}
+.ans{
+    padding: 20px;
+    display: none;
+}
+/* jquery ui */
+/* draggable */
+#draggable { 
+    width: 250px;
+    height: 150px;
+    padding: 0.5em;
+    background-color: aqua;
+}
